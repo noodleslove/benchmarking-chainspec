@@ -181,6 +181,8 @@ edwins-air: ~/Dev/substrate/Benchmarking-Weights-and-Chainspec-main [git:master]
 2021-09-28 12:08:46 💤 Idle (1 peers), best: #0 (0x08b0…d264), finalized #0 (0x08b0…d264), ⬇ 0 ⬆ 0  
 ```
 
+![node01](./node01-screenshot.png)
+
 Node 02
 
 ````bash
@@ -218,3 +220,5 @@ edwins-air: ~/Dev/substrate/Benchmarking-Weights-and-Chainspec-main [git:master]
 2021-09-28 12:08:35 💤 Idle (1 peers), best: #0 (0x08b0…d264), finalized #0 (0x08b0…d264), ⬇ 0 ⬆ 0    
 2021-09-28 12:08:40 💤 Idle (1 peers), best: #0 (0x08b0…d264), finalized #0 (0x08b0…d264), ⬇ 83 B/s ⬆ 81 B/s
 ````
+
+![node02](./node02-screenshot.png)
